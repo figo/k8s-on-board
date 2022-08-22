@@ -25,10 +25,14 @@ https://github.com/vmware-tanzu/community-edition
 
 ## Deep Dive
 
-K8s api-server deep dive series by STEFAN SCHIMANSKI and MICHAEL HAUSENBLAS
+K8s api-server deep dive series by STEFAN SCHIMANSKI and MICHAEL HAUSENBLAS  
 https://blog.openshift.com/kubernetes-deep-dive-api-server-part-1/  
 https://blog.openshift.com/kubernetes-deep-dive-api-server-part-2/  
 https://blog.openshift.com/kubernetes-deep-dive-api-server-part-3/   
+
+## Kubernetes CRD Pattern
+Writing Kube Controllers for Everyone - Maciej Szulik  
+https://www.youtube.com/watch?v=AUNPLQVxvmw
 
 ## Training courses
 
